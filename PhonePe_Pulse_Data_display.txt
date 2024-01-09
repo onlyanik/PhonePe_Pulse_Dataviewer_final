@@ -1,0 +1,12 @@
+PhonePe Pulse Data extraction from github repository & displaying the same using STreamlit Aplication:
+
+Fetching the target file data to the local computer from the github repository.
+Extracted all the data from json format.
+Then the extracted data have been transferred to the mysql table.
+fetching those data & converting them into dataframe.
+Creating a dropdown using streamlit application.
+Displaying the dataframe data of the selected column in the dropdown.
+
+
+
+
